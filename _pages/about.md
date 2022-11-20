@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a master's student at UC San Diego, advised by [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu//~tberg/). My research interests include applied mathematics (primarily topology and optimal transport theory), machine learning, natural language processing, and historical linguistics. I received my BSc from UC Davis. Prior to returning to academia, I worked in the advertising and edtech industries.
+<!-- I am a graduate student at UC San Diego, advised by [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu//~tberg/). My research interests include applied mathematics (primarily topology and optimal transport theory), machine learning, natural language processing, and historical linguistics. I received my BSc from UC Davis. Prior to returning to academia, I worked in the advertising and edtech industries. -->
+
+I am a Computer Science graduate student at UC San Diego, advised by [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu//~tberg/). Before returning to academia, I worked in advertising and education technology. I earned my BSc from UC Davis. My research interests include applied mathematics (primarily topology and optimal transport theory), machine learning, and natural language processing.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
